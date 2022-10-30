@@ -86,9 +86,8 @@ body{
 }
 .seek_slider,
 .volume_slider{
-    height: 20%;
+    height: 30%;
     background: #83a9ff;
-    -webkit-transition: .2s;
     transition: opacity .2s;
 }
 .seek_slider,
@@ -101,7 +100,7 @@ body{
     border-radius: 100%;
 }
 .seek_slider{
-    width: 60%;
+    width: 100%;
 }
 .volume_slider{
     width: 30%;
